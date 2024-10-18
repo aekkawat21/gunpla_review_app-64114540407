@@ -1,0 +1,1 @@
+ D:\\gunpla_review_app\\.dart_tool\\flutter_build\\967f35f9749ba58342dd79310d577c1f\\native_assets.yaml: 
